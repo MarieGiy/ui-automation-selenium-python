@@ -91,3 +91,5 @@ def test_main():
   # assertions
   assert page_title == PAGE_TITLE
   assert snape_text == SNAPE_NAME
+
+test_main()
